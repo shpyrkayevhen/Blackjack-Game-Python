@@ -1,5 +1,3 @@
-from email.header import Header
-from pprint import pprint
 import random
 
 
